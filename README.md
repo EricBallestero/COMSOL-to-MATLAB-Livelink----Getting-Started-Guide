@@ -24,6 +24,6 @@ MATLAB® code.
 
 ## Inquiries
 
-Any inquiries concerning mistakes in the documents provided can be addressed by sending a pull request with your questions/corrections.
+Any inquiries concerning mistakes in the documents provided can be addressed under the discussion tab of this repository.
 
 
