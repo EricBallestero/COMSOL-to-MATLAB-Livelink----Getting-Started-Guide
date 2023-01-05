@@ -24,8 +24,6 @@ MATLAB® code.
 
 ## Inquiries
 
-Any inquiries concerning mistakes in the documents provided can be addressed to
-* eric.ballestero[at]univ-lemans.fr, and
-* theo.cavalieri[at]empa.ch.
+Any inquiries concerning mistakes in the documents provided can be addressed by sending a pull request with your questions/corrections.
 
 
