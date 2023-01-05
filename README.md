@@ -11,7 +11,7 @@ Repository containing a beginner's guide to COMSOL's Livelink for MATLAB
 
 ## Software required for this guide
 
-Both MATLAB® and COMSOL® Multiphysics software are required to use the files contained in the Turorial folder. These are licensed software. Licences and/or demo versions can be found on the respective commercial websites. 
+Both MATLAB® and COMSOL® Multiphysics software are required to use the files contained in the **Turorial** folder. These are licensed software. Licences and/or demo versions can be found on the respective commercial websites. 
 
 * MATLAB website $\rightarrow$ [https://uk.mathworks.com/](https://uk.mathworks.com/)
 * COMSOL website $\rightarrow$ [https://www.comsol.com/](https://www.comsol.com/)
