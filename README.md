@@ -3,7 +3,7 @@ Repository containing a beginner's guide to COMSOL's Livelink for MATLAB
 
 ### This guide is intended for people with a minimum background knowledge of both MATLAB® and COMSOL® Multiphysics software. It aims to provide a basic understanding on how to ‘link’ both software in order to be able to manipulate COMSOL® through a MATLAB® interface. Such inter-software communication can become extremely useful when designing complex systems which involve both numerical computation through MATLAB® and numerical solving through COMSOL® , e.g., systems that require computational steps between simulation iterations and/or ones whose complex geometry can be parametrically built.
 
-![](Tutorial/data_line.png)
+![Livelink Figures](Tutorial/data_line.png)
 
 <ins>Directory content:</ins>
 
