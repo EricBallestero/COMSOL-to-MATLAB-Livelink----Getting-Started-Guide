@@ -1,6 +1,8 @@
 # COMSOL-to-MATLAB-Livelink--Getting-Started-Guide
 Repository containing a beginner's guide to COMSOL's Livelink for MATLAB
 
+"Getting Started Guide MATLAB-COMSOL-Livelink.pdf" $\rightarrow$ Guide presenting step-by-step information on how to install, code and export COMSOL-driven numerical data into MATLAB.
+
 This guide is intended for people with a minimum background knowledge of both MATLAB® and COMSOL®
 Multiphysics software. It aims to provide a basic understanding on how to ‘link’ both software in order
 to be able to manipulate COMSOL® through a MATLAB® interface. Such inter-software communication
