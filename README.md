@@ -1,10 +1,10 @@
 # COMSOL-to-MATLAB-Livelink--Getting-Started-Guide
 Repository containing a beginner's guide to COMSOL's Livelink for MATLAB
 
-## This guide is intended for people with a minimum background knowledge of both MATLAB® and COMSOL® Multiphysics software. It aims to provide a basic understanding on how to ‘link’ both software in order to be able to manipulate COMSOL® through a MATLAB® interface. Such inter-software communication can become extremely useful when designing complex systems which involve both numerical computation through MATLAB® and numerical solving through COMSOL® , e.g., systems that require computational steps between simulation iterations and/or ones whose complex geometry can be parametrically built.
+### This guide is intended for people with a minimum background knowledge of both MATLAB® and COMSOL® Multiphysics software. It aims to provide a basic understanding on how to ‘link’ both software in order to be able to manipulate COMSOL® through a MATLAB® interface. Such inter-software communication can become extremely useful when designing complex systems which involve both numerical computation through MATLAB® and numerical solving through COMSOL® , e.g., systems that require computational steps between simulation iterations and/or ones whose complex geometry can be parametrically built.
 
 * **_Getting Started Guide MATLAB-COMSOL-Livelink.pdf_** $\rightarrow$ Guide presenting step-by-step information on how to install, code and export COMSOL-driven numerical data into MATLAB.
-* **_LiveLinkTM for MATLAB® User’s Guide.pdf_** $\rightarrow$ COMSOL Guide presenting exhaustive information on MATLAB Livelink functions.
+* **_LiveLink for MATLAB® User’s Guide.pdf_** $\rightarrow$ COMSOL Guide presenting exhaustive information on MATLAB LiveLink functions.
 * **Tutorial** $\rightarrow$ COMSOL and MATLAB files presenting a hands-on tutorial introduced in the Getting Started Guide.
 
 **MATLAB®** (from Matrix Laboratory) is a proprietary programming language fo-
